@@ -7,7 +7,17 @@
 ## GIT
   * Git Large files ([Git annex](https://git-annex.branchable.com/))
 ## Programming languages
-### JVM
+### JVM/VM
 * [Java](https://github.com/xairam/Working-mat/blob/master/ProgrammingLangs/Java/java.md)
 * [Scala](https://github.com/xairam/Working-mat/blob/master/ProgrammingLangs/Scala/scala.md)
+* [\#C]()
     
+##Frameworks
+* Play
+* Tomcat
+*Spring
+
+##Webserver   
+###NGXINX   
+###Apache   
+
