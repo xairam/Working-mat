@@ -15,7 +15,7 @@
 ## Frameworks
 * Play
 * Tomcat
-*Spring
+* Spring
 
 ## Webserver   
 ### NGXINX   
