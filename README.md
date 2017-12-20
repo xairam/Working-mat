@@ -26,12 +26,20 @@
 ## Webserver   
 ### NGXINX   
 ### Apache   
+
+
+
+
 ## Database
 ### SQL
 * mysql
 * postgres
 * _sqlite_
+* Mariadb
 ### NOSQL
 * Mongodb
-
+## Browser
+ # Webapi extensions
+ # Chrome
+ # Firefox
 
