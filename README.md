@@ -19,7 +19,7 @@
 * Play
 * Tomcat
 * Spring
- * boot
+  * boot
 * hibernate
 * akka
 
@@ -30,7 +30,7 @@
 ### SQL
 * mysql
 * postgres
-* *sqlite*
+* _sqlite_
 ### NOSQL
 * Mongodb
 
