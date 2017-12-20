@@ -19,6 +19,9 @@
 * Play
 * Tomcat
 * Spring
+ * boot
+* hibernate
+* akka
 
 ## Webserver   
 ### NGXINX   
