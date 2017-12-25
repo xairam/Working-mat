@@ -38,6 +38,19 @@
 * Mariadb
 ### NOSQL
 * Mongodb
+### Graph
+* GraphQL
+
+
+## Build tools
+* Maven
+* Gradle
+* SBT
+* ANT
+
+
+
+
 ## Browser
  # Webapi extensions
  # Chrome
