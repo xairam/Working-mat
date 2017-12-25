@@ -29,3 +29,7 @@
 >Nothing is particularly hard if you divide it into small jobs.   
 
 >If money is your hope for independence, you will never have it. The only real security that a man can have in this world is a reserve of knowledge, experience and ability.
+
+
+## buffet
+> Risk comes from not knowing what you’re doing.
