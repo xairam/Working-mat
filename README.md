@@ -5,6 +5,8 @@
   * [SQL](http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf)
   * [Reg Ex](http://files.zeroturnaround.com/pdf/zt_regular-expressions-cheat-sheet.pdf)
   * [Java Streams](http://files.zeroturnaround.com/pdf/zt_java8_streams_cheat_sheet.pdf)
+  * [Java Module](http://files.zeroturnaround.com/pdf/RebelLabs-Java-9-modules-cheat-sheet.pdf)
+  * [zeroturnaround.com](https://zeroturnaround.com/rebellabs/reports/)
 ## Danstrukturen
   * [opendatastructures](http://opendatastructures.org/ods-java/)
 
