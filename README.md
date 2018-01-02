@@ -1,6 +1,10 @@
 # Working-mat
 ## Allgemeines 
   * [FU Berlin Informatik](http://www.inf.fu-berlin.de/lehre/SS16/infb/)
+  ### Cheatsheet
+  * [SQL](http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf)
+  * [Reg Ex](http://files.zeroturnaround.com/pdf/zt_regular-expressions-cheat-sheet.pdf)
+  * [Java Streams](http://files.zeroturnaround.com/pdf/zt_java8_streams_cheat_sheet.pdf)
 ## Danstrukturen
   * [opendatastructures](http://opendatastructures.org/ods-java/)
 
@@ -22,6 +26,7 @@
   * boot
 * hibernate
 * akka
+* [Frameworks Comparison](https://zeroturnaround.com/rebellabs/the-curious-coders-java-web-frameworks-comparison-spring-mvc-grails-vaadin-gwt-wicket-play-struts-and-jsf/7/)
 
 ## Webserver   
 ### NGXINX   
